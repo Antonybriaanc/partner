@@ -1,5 +1,5 @@
 {
-    'name': 'Partner Extra Fields SFC',
+    'name': 'partner_extra_custom',
     'author': 'SFC C.A',
     'version': '0.1',
     'category': 'Custom',
@@ -22,4 +22,3 @@
     'currency': 'USD',
     'license': 'LGPL-3',
 }
-
