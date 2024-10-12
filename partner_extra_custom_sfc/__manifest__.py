@@ -5,7 +5,7 @@
     'category': 'Custom',
     'summary': 'Adds extra fields to the partner form.',
     'description': """
-       <h2>Partner Extra Custom SFC</h2>
+        <h2>Partner Extra Custom SFC</h2>
         <p>Este módulo añade campos adicionales al formulario de contactos en Odoo, mejorando la gestión de la información.</p>
         <h3>Características:</h3>
         <ul>
