@@ -1,0 +1,21 @@
+{
+    'name': 'Partner Extra Fields',
+    'author': 'SFC C.A',
+    'version': '0.1',
+    'category': 'Custom',
+    'summary': 'Adds extra fields to the partner form.',
+    'installable': True,
+    'application': False,
+    'depends': [
+        'base',
+        'mail',
+        'contacts',
+    ],
+    'data': [
+        'security/ir.model.access.csv',
+        'views/res_partner_views.xml',
+        'static/description/icon.png',
+        'static/description/screenshot1.png',
+        'static/description/screenshot2.png',
+    ],
+}
