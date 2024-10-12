@@ -1,3 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_extra_phones,res.partner.phones,model_res_partner_phones,base.group_user,1,1,1,1
-access_extra_emails,res.partner.emails,model_res_partner_emails,base.group_user,1,1,1,1
