@@ -4,24 +4,17 @@
     'version': '0.1',
     'category': 'Custom',
     'summary': 'Adds extra fields to the partner form.',
-    'description': """
+    'description_html': """
         <h2>Partner Extra Custom SFC</h2>
-        <p>Este módulo añade campos adicionales para teléfono y correo electrónico en el formulario de contactos en Odoo, mejorando la gestión de la información.</p>
-        <p><strong>Características:</strong></p>
+        <p>Este módulo añade campos adicionales al formulario de contactos en Odoo, mejorando la gestión de la información.</p>
+        <h3>Características:</h3>
         <ul>
-            <li>Añade un campo de teléfono adicional.</li>
-            <li>Añade un campo de correo electrónico adicional.</li>
-            <li>Se integra con el módulo de contactos existente.</li>
+            <li>Campo extra 1: Detalles específicos</li>
+            <li>Campo extra 2: Información adicional</li>
+            <li>Integración con el módulo de contactos</li>
+            <li>Mejora de la comunicación a través del módulo de correo</li>
         </ul>
-        <p><strong>Instalación:</strong></p>
-        <ol>
-            <li>Clona el repositorio en tu sistema local.</li>
-            <li>Copia la carpeta del módulo en el directorio de addons de Odoo.</li>
-            <li>Reinicia el servidor de Odoo.</li>
-            <li>Ve a la interfaz de Odoo y actualiza la lista de módulos.</li>
-            <li>Busca "Partner Extra Custom SFC" y haz clic en Instalar.</li>
-        </ol>
-        <p><strong>Autor:</strong> SFC C.A - <a href="mailto:abcy775@gmail.com">abcy775@gmail.com</a></p>
+        <p>Con este módulo, podrás gestionar mejor la información de tus clientes y contactos, agregando los campos que necesitas para personalizar tu sistema Odoo.</p>
     """,
     'installable': True,
     'application': False,
@@ -37,7 +30,7 @@
         'static/description/screenshot1.png',
         'static/description/screenshot2.png',
     ],
-    'images': ['static/description/cover_image.png'],
+    'images': ['static/description/screenshot1.png'],
     'price': 19.99,
     'currency': 'USD',
     'license': 'LGPL-3',
