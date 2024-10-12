@@ -1,4 +1,4 @@
-# Partner Extra Fields
+ Partner Extra Fields
 
  Description
 The **Partner Extra Fields** module adds additional fields for phone and email in the Odoo contact form. This extension is useful for maintaining extra information about partners in one place.
@@ -15,7 +15,7 @@ The **Partner Extra Fields** module adds additional fields for phone and email i
 4. Go to the Odoo interface and update the list of modules.
 5. Search for **Partner Extra Fields** and click **Install**.
 
-## Usage
+ Usage
 After installation, the new fields will appear in the contact form. You can fill in the additional fields as needed.
 
  Contributions
@@ -29,6 +29,6 @@ Contributions are welcome. If you want to collaborate on this project, please fo
  License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Author
+ Author
 **SFC C.A**  
 
