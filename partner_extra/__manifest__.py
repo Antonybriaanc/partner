@@ -1,5 +1,5 @@
 {
-    'name': 'partner_extra_custom_sfc_acast_2024',
+    'name': 'partner_extra_custom_sfc',
     'author': 'SFC C.A',
     'version': '0.1',
     'category': 'Custom',
